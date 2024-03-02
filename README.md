@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### 👋 Olá! eu sou Ronald Rezende, sou estudante na 42 Lisboa
+
+
+![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldprme&show_icons=true&theme=radical)
+
+[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-rezende/)
 <!--
 **ronaldprme/ronaldprme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
