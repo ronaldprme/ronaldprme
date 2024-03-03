@@ -10,5 +10,6 @@
 - 🤔 I’m looking for help with minishell
 - 💬 Ask me about neuro-semantics
 - 📫 How to reach me: linkedIn
-- ⚡ Fun fact: I never knew where I was going, but I knew I was on the right path
+
+<!-- ⚡ Fun fact: I never knew where I was going, but I knew I was on the right path-->
 --
