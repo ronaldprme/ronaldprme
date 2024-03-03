@@ -12,4 +12,3 @@
 - 📫 How to reach me: linkedIn
 
 <!-- ⚡ Fun fact: I never knew where I was going, but I knew I was on the right path-->
---
