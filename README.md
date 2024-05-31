@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently developing a new profession
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning c/c++
 - 👯 I’m looking to collaborate on database analysis and KPI development
-- 🤔 I’m looking for help with minishell
+- 🤔 I’m looking for help with miniRT
 - 💬 Ask me about neuro-semantics
 
 - 📫 How to reach me: 
