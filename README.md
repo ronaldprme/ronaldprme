@@ -11,7 +11,12 @@
 
 - 📫 How to reach me: 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-rezende/)
-[![linkdin](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-[![linkdin](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)
-[![linkdin](https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+</p>
 <!-- ⚡ Fun fact: I never knew where I was going, but I knew I was on the right path-->
