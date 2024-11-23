@@ -19,6 +19,5 @@
   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dockercomposer/dockercomposer-original.svg" alt="DockerComposer" width="40" height="40"/></a>
 </p>
 <!-- ⚡ Fun fact: I never knew where I was going, but I knew I was on the right path-->
