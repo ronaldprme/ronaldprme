@@ -9,7 +9,9 @@
 <!-- - 🤔 I’m looking for help with miniRT -->
 - 💬 Ask me about neuro-semantics
 
-- 📫 How to reach me: 
+- 📫 How to reach me:**ronaldpr@me.com**
+<a href="https://linkedin.com/in/ronald-rezende" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toufa7" height="30" width="40" />
+
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-rezende/)
 
 <h3 align="left">Languages and Tools:</h3>
